@@ -46,7 +46,3 @@ Open to conversations on RAG architecture, agent design, and production LLM engi
 
 ---
 
-### 📊 GitHub Stats
-
-![Yaseen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseen002&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen002&layout=compact&theme=radical&hide_border=true)
